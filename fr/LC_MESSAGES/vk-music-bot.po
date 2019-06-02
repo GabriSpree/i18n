@@ -65,11 +65,11 @@ msgstr ""
 
 #: handlers/donation.py:57 handlers/donation.py:137
 msgid "An option to change search results size"
-msgstr ""
+msgstr "Option pour changer la dimension des resultas"
 
 #: handlers/donation.py:58 handlers/donation.py:138
 msgid "More options under /settings command"
-msgstr ""
+msgstr "Plus d'option avec la commande /settings"
 
 #: handlers/donation.py:60
 #, python-format
@@ -123,23 +123,23 @@ msgstr ""
 
 #: handlers/help.py:19 handlers/start.py:39
 msgid "/artist — search for artist name"
-msgstr ""
+msgstr "/artist - rechercher le nom d'un artiste"
 
 #: handlers/help.py:20
 msgid "/my — list your playlist"
-msgstr ""
+msgstr "/my - montre votre playlist"
 
 #: handlers/help.py:21
 msgid "/top — popular songs"
-msgstr ""
+msgstr "/top - chansons populaires"
 
 #: handlers/help.py:22 handlers/start.py:41
 msgid "/settings — change settings"
-msgstr ""
+msgstr "/settings - changer les preferences"
 
 #: handlers/help.py:23
 msgid "/donate — support authors"
-msgstr ""
+msgstr "/donate - supporter les auteurs"
 
 #: handlers/help.py:24
 msgid "/premium — premium info"
